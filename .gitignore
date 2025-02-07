@@ -1,0 +1,12 @@
+.DS_Store
+
+# IDE Configs
+.idea
+.vscode/*
+
+# Node Modules
+**/node_modules/**
+
+# Mise Config
+mise.local.toml
+
